@@ -3,62 +3,58 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "Quem foi o criador da lâmpada?",
+answer: "Thomas Edison",
 options: [
 "Albert Einstein",
-"Marie Curiee",
+"Thomas Edison",
 "Stephen Hawking",
-"Linus Pauling"
+"Pelé"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual o país mais populoso do mundo?",
+answer: "China",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"China",
+"Estados Unidos da América",
+"Russia",
+"Brasil"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "Qual o nome do minério mais valioso do mundo?",
+answer: "Ródio",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"Ouro",
+"Diamante",
+"Rubi",
+"Ródio"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
-answer: "12",
+question: "quanto é o numero 'pi'?",
+answer: "3,14",
 options: [
-"12",
-"11",
-"14",
-"13"
+"1.45",
+"3,41",
+"3,14",
+"4,13"
 ]
 
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: "quantos planetas existem no sistema solar?",
+answer: "8",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"8",
+"11",
+"7",
+"9"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
